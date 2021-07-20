@@ -1,5 +1,7 @@
 # Study-of-amateur-High-Power-Rocket-trajectories
- 
+
+![image](https://user-images.githubusercontent.com/71126768/126407189-e1ecf091-a7f3-46a1-adf2-1b798c4f33d1.png)
+
 High Power rockets are suborbital vehicles with vast applications in both professional and academic
 sectors, ranging from atmospheric sounding to the participation in rocketry competitions. Due to their
 ballistic nature, the launch of these vehicles incurs unquestionable security risks that must be quantified.
@@ -26,3 +28,14 @@ Monte Carlo simulator has been implemented in order to study the behaviour of th
 Program’s rocket, Phobos. In view of its upcoming participation in the European Rocketry Challenge
 2022 competition, this data will be used to estimate the splash-down zone and confirm that the rocket’s
 behaviour meets the design parameters.
+
+Some of the simulations results are summed in the following graphs:
+
+![ph_1_tr](https://user-images.githubusercontent.com/71126768/126406959-a9834b10-5ee8-4320-9572-d1f6e5b4d8da.png)
+![ares_3_v](https://user-images.githubusercontent.com/71126768/126406944-79438061-d948-49e1-96f1-3e676bf9fd78.png)
+![MC_1_dispersion](https://user-images.githubusercontent.com/71126768/126406881-98b5c0f3-6261-4264-8852-b506508ab842.png)
+
+\*To access the Bachelor Thesis report, please contact me.
+<p align="center">
+  <img width="550" height="650" src="https://user-images.githubusercontent.com/71126768/126407093-800d979f-f07b-4021-8d7b-ce77ee21e30c.png">
+</p>
