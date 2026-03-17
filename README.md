@@ -68,7 +68,8 @@ The primary execution script for an amateur High Power rocket simulation operate
 * **1.2** Retrieves initial flight conditions, selected physical models (drag, gravity, atmosphere), planet data, and ODE solver options.
 
 **2. Flight Sequences Integration Loop**
-*For each defined flight sequence (Launch Rail $\rightarrow$ Ascent $\rightarrow$ Coasting $\rightarrow$ Descent):*
+
+*For each defined flight sequence (Launch Rail -> Ascent -> Coasting -> Descent):*
 * **2.1** Retrieves the specific equations of motion model and the trigger event functions (e.g., `EventApogee`, `EventStopAtGround`) for the current phase.
 * **2.2** Processes sequence boundary times based on relative motor burnout or predefined event conditions.
 * **2.3** Initializes the starting time and the 7-variable state vector (velocity, flight path angle, azimuth, mass, altitude, longitude, latitude).
@@ -101,7 +102,8 @@ Some of the simulations results are summed in the following graphs:
 
 
 ## Author
-**Alexis LEON I DELGADO** Aerospace Engineer  
+**Alexis LEON I DELGADO** | Aerospace Engineer  
+
 Developed as part of a Final Bachelor's Thesis for the UPC Space Program (Ares Mission).
 
 <p align="center">
